@@ -22,9 +22,6 @@ Let's dive in!
 So what is virtualization anyway? Basically, the IT term virtualization refers to the practice of emulating (or simulating) a computer. You can use a Virtual Machine to run a computer as an application on your host computer.
 
 <img src="Folder/Attach-an-ISO.jpg">
-
-
-
  
 On the image below - the top computer would be the host computer. The three computers below the host are referred to as guest virtual machines.
 
@@ -41,6 +38,8 @@ In this setup I will be using Oracle VM VirtualBox because it is compatible with
  
 <h2>Downloading and Installing VirtualBox</h2>
 Download Oracle VM VirtualBox by clicking here. Once the download completes, I launched the installation.
+
+<img src="Folder/VirtualBox-Install.jpg">
 
 I Proceeded through the installation using all of the default options. Any prompts that are a yes/no you need to select "yes'.
 
