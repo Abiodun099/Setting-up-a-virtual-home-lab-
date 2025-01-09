@@ -85,6 +85,8 @@ Keep in mind that you won't be able to access all of these network types if you 
  
 Here is an overview of the different network types you could create:
 
+<img src="Folder/VM-Network.jpg">
+
 
 <h4>NAT</h4>
 This network type allows your VMs to use the internet connectivity of the host computer. You will have no connectivity to other VMs or the host computer. Use this type if your lab will only have one VM.
