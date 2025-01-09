@@ -158,6 +158,8 @@ Once you have downloaded your ISO file, it's time to mount it to your VM in Virt
  
 Right click on your VM and select settings then open the Storage tab. From there click the Empty disc icon, then again the disc icon under Attributes on the right hand side of the window. Click the Choose Virtual Optical Disk File... and browse to and open your desired ISO.
 
+<img src="Folder/Attach-an-ISO.jpg">
+
 
 Click OK and now when we launch the VM you will be able to begin your OS installation.
 I mounted a Windows Server 2016 ISO so when I launch the VM I will see the installation screen for this OS.
