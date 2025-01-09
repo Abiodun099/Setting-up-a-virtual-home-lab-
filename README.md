@@ -115,6 +115,8 @@ This is essentially the same as an internal network, except that your host compu
  
 You can create a host-only network by select File > Host Network Manager
 
+<img src="Folder/Host-Only-Network-Adapters.jpg">
+
 
 <h4>Generic Driver</h4>
 Oracles documentation for the generic driver states:
