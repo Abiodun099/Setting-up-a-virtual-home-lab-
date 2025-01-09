@@ -98,6 +98,8 @@ This network is the same as NAT, but it allows your VMs to communicate to other 
  
 You can create a NAT Network by clicking on File > Preferences. Select the Network tab and then click the plus button to create a new NAT Network.
 
+<img src="Folder/NAT-Network.jpg">
+
 
 <h4>Bridged Adapter</h4>
 Using this network type will cause your router to treat your VM as a physical computer. This means your VM will be connected to the same network as your host computer. Use this lab when you need to access your VMs from your host network.
