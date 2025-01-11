@@ -30,12 +30,14 @@ Configuring the RAM for our new virtual machine.
 <h2>Create a virtual hard disk</h2>
 Click Next and, in the resulting window (Figure 4), click Create to create a new virtual hard disk.
 
-<img src="">
+<img src="Folder/linuxvm4.jpg">
 
 The VirtualBox disk creation window.
 Creating a new virtual hard drive for our guest OS.
-Image: Jack Wallen
-In the next two windows, select VDI and then Dynamically allocated. In the final window, slide the slider to the right to increase the size of the virtual hard disk to however large you need, and make sure to select the folder to house the drive (Figure 5).
+
+In the next two windows, select VDI and then Dynamically allocated. In the final window, slide the slider to the right to increase the size of the virtual hard disk to however large you need, and make sure to select the folder to house the drive.
+
+<img src="">
 
 The VirtualBox virtual disk resizing tool.
 Sizing the virtual hard drive to meet your needs.
