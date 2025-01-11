@@ -37,18 +37,20 @@ Creating a new virtual hard drive for our guest OS.
 
 In the next two windows, select VDI and then Dynamically allocated. In the final window, slide the slider to the right to increase the size of the virtual hard disk to however large you need, and make sure to select the folder to house the drive.
 
-<img src="">
+<img src="Folder/linuxvm5.jpg">
 
 The VirtualBox virtual disk resizing tool.
-Sizing the virtual hard drive to meet your needs.
-Image: Jack Wallen
+
+
 Click Create and you'll be returned to the VirtualBox main window.
 
-Configure your guest operating system
+<h2>Configure your guest operating system</h2>
 We can now configure our guest operating system. One thing you'll want to make sure to do (before you take this step) is to download the ISO file for the version of Linux you want to install.
 
 1. Add the ISO image for installation
-Select the virtual machine you just created from the left pane and then click Settings. In the resulting window, click Storage and then click the left + associated with Controller: IDE (Figure 6).
+Select the virtual machine you just created from the left pane and then click Settings. In the resulting window, click Storage and then click the left + associated with Controller: IDE.
+
+<img src="">
 
 
 The VirtualBox Settings window.
