@@ -58,15 +58,17 @@ This is where you configure all aspects of your virtual machine.
 
 In the resulting window, click Add, and when your file manager opens, navigate to wherever it is you saved the ISO image for the Linux distribution you downloaded.
 
-<img src="">
+<img src="Folder/linuxvm7.jpg">
 
 The VirtualBox image selector.
 Adding an ISO image for installation.
 
 Once you've selected your ISO image, click Choose and then OK. You should now find yourself back at the VirtualBox main window, where you're ready to run the virtual machine.
 
-Start the installation
-Select the virtual machine you just created in the left navigation and click the Start button, which will launch the bootable image and -- depending on the Linux distribution you've chosen -- should land you at either the live image (where you can either test or install the guest operating system) or immediately install the guest (Figure 8).
+<h2>Start the installation</h2>
+Select the virtual machine you just created in the left navigation and click the Start button, which will launch the bootable image and -- depending on the Linux distribution you've chosen -- should land you at either the live image (where you can either test or install the guest operating system) or immediately install the guest.
+
+<img src="">
 
 FerenOS is ready to install as a virtual machine.
 You can now install Linux as your guest operating system.
