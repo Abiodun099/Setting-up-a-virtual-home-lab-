@@ -14,17 +14,19 @@ The VirtualBox main window shows I've already created quite a few virtual machin
 <h2>Name your new guest operating system</h2>
 I'm going to spin up a virtual machine for FerenOS, which is a Linux distribution. In the first window of the wizard (Figure 2), give the virtual machine a name, select the folder to house the files, select the type of operating system for the new virtual machine and the version, and then click Next.
 
-<img src=" ">
+<img src="Folder/linuxvm2.jpg">
 
 The VirtualBox virtual machine naming window.
 Naming our new virtual machine.
-Image: Jack Wallen
-3. Configure RAM
-In the next window, slide the Memory size slider to the right to increase the amount of RAM you want to allot to the machine (Figure 3).
+
+<h2>Configure RAM</h2>
+In the next window, slide the Memory size slider to the right to increase the amount of RAM you want to allot to the machine.
+
+<img src=""> 
 
 The VirtualBox virtual machine memory resizer.
 Configuring the RAM for our new virtual machine.
-Image: Jack Wallen
+
 4. Create a virtual hard disk
 Click Next and, in the resulting window (Figure 4), click Create to create a new virtual hard disk.
 
