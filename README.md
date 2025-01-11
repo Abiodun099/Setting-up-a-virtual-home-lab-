@@ -50,17 +50,19 @@ We can now configure our guest operating system. One thing you'll want to make s
 1. Add the ISO image for installation
 Select the virtual machine you just created from the left pane and then click Settings. In the resulting window, click Storage and then click the left + associated with Controller: IDE.
 
-<img src="">
+<img src="Folder/linuxvm6.jpg">
 
 
 The VirtualBox Settings window.
 This is where you configure all aspects of your virtual machine.
-Image: Jack Wallen
-In the resulting window (Figure 7), click Add, and when your file manager opens, navigate to wherever it is you saved the ISO image for the Linux distribution you downloaded.
+
+In the resulting window, click Add, and when your file manager opens, navigate to wherever it is you saved the ISO image for the Linux distribution you downloaded.
+
+<img src="">
 
 The VirtualBox image selector.
 Adding an ISO image for installation.
-Image: Jack Wallen
+
 Once you've selected your ISO image, click Choose and then OK. You should now find yourself back at the VirtualBox main window, where you're ready to run the virtual machine.
 
 Start the installation
