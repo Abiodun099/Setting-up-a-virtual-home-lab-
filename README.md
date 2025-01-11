@@ -22,13 +22,15 @@ Naming our new virtual machine.
 <h2>Configure RAM</h2>
 In the next window, slide the Memory size slider to the right to increase the amount of RAM you want to allot to the machine.
 
-<img src=""> 
+<img src="Folder/linuxvm3.jpg"> 
 
 The VirtualBox virtual machine memory resizer.
 Configuring the RAM for our new virtual machine.
 
-4. Create a virtual hard disk
+<h2>Create a virtual hard disk</h2>
 Click Next and, in the resulting window (Figure 4), click Create to create a new virtual hard disk.
+
+<img src="">
 
 The VirtualBox disk creation window.
 Creating a new virtual hard drive for our guest OS.
