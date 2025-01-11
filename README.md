@@ -2,17 +2,19 @@
 
 <i>Creating the virtual machine</i>
 
-1. Open VirtualBox
-First, you'll open VirtualBox from your computer's desktop menu. Once the application is open, click Tools and then click New.
+<h2>Open VirtualBox</h2>
+First, you'll open VirtualBox from your computer's desktop menu. Once the application is open, click Tools and then click New
 
-<img src"">
+<img src="Folder/linuxvm1.jpg">
 
 
 The VirtualBox main window.
 The VirtualBox main window shows I've already created quite a few virtual machines.
-Image: Jack Wallen
-2. Name your new guest operating system
+
+<h2>Name your new guest operating system</h2>
 I'm going to spin up a virtual machine for FerenOS, which is a Linux distribution. In the first window of the wizard (Figure 2), give the virtual machine a name, select the folder to house the files, select the type of operating system for the new virtual machine and the version, and then click Next.
+
+<img src=" ">
 
 The VirtualBox virtual machine naming window.
 Naming our new virtual machine.
