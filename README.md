@@ -28,7 +28,7 @@ Click on the Add button in the VirtualBox Welcome screen
 Select Add button
 <h3>Step 3</h3>: Next, browse the folder you just downloaded and extracted. Choose the VirtualBox Machine Definition file to be added (as you can see in the image below). The file name should start with ‘kalilinux‘ and end with the .vbox extension.
 
-<img src-"">
+<img src="Folder/open-the-vbox-file.jpg">
 
 Open the .vbox file in VirtualBox
 Add Kali Linux
