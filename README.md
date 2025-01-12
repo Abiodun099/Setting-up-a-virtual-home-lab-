@@ -38,7 +38,7 @@ Once selected, proceed by clicking on Open.
 
 Start the Kali Linux Virtual Machine with default settings
 
-<img src="">
+<img src="Folder/start-kali-virtual-machine-1.jpg">
 Start Kali Linux
 Here, the hard drives as VDI refer to virtually mounting the hard drives by allocating the storage space set.
 
