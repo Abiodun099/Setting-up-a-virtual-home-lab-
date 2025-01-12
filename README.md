@@ -58,7 +58,7 @@ Now, the default account and password both are Kali.
 
 You should be able to log in to the system with it.
 
-<img src="">
+<img src="Folder/kali-linux-desktop-in-virtualbox.jpg">
 
 Kali Linux is running inside VirtualBox.
 Kali Linux Desktop in VirtualBox
