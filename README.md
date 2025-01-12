@@ -5,7 +5,7 @@
 <h2> Download ready-to-use virtual image of Kali Linux </h2>
 After installing it successfully, head to the Kali Linux download page to download the VM image for VirtualBox. If you change your mind about utilizing VMware, that is available too.
 
-<img src="">
+<img src="Folder/Kali-virtual-machine-images-in-browser.jpg">
 
 Download the virtual machine-specific image of Kali Linux from the official website
 Download Kali Linux Virtual Machine Images
