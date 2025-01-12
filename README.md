@@ -11,7 +11,6 @@ Download the virtual machine-specific image of Kali Linux from the official webs
 Download Kali Linux Virtual Machine Images
 As the file size is around 3 GB, you should use the torrent option or download it using a download manager, whichever is fastest for you.
 
-Download Kali Linux Virtual Image
 <h2>Install Kali Linux on Virtual Box</h2> 
 Once you have installed VirtualBox and downloaded the Kali Linux 7z image, you need to add it to VirtualBox to make it work.
 
@@ -23,7 +22,7 @@ The Kali Linux Virtual Machine storage will be in the same location as you extra
 
 <h3>Step 2</h3>: Launch VirtualBox. You will notice an Add button – click on it.
 
-<img src="">
+<img src="Folder/select-add-in-virtual-box.jpg">
 
 Click on the Add button in the VirtualBox Welcome screen
 Select Add button
