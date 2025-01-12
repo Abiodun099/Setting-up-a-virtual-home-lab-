@@ -44,7 +44,7 @@ Here, the hard drives as VDI refer to virtually mounting the hard drives by allo
 
 After you are done with the settings, hit Start and wait for a while.
 
-<img src="">
+<img src="Folder/kali-login-screen.jpg">
 
 
 You might get an error at first for USB port 2.0 controller support, you can disable it to resolve it or just follow the on-screen instructions of installing an additional package to fix it. And, you are done!
