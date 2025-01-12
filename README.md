@@ -5,6 +5,8 @@
 <h2> Download ready-to-use virtual image of Kali Linux </h2>
 After installing it successfully, head to the Kali Linux download page to download the VM image for VirtualBox. If you change your mind about utilizing VMware, that is available too.
 
+<img src="">
+
 Download the virtual machine-specific image of Kali Linux from the official website
 Download Kali Linux Virtual Machine Images
 As the file size is around 3 GB, you should use the torrent option or download it using a download manager, whichever is fastest for you.
@@ -21,9 +23,13 @@ The Kali Linux Virtual Machine storage will be in the same location as you extra
 
 <h3>Step 2</h3>: Launch VirtualBox. You will notice an Add button – click on it.
 
+<img src="">
+
 Click on the Add button in the VirtualBox Welcome screen
 Select Add button
 <h3>Step 3</h3>: Next, browse the folder you just downloaded and extracted. Choose the VirtualBox Machine Definition file to be added (as you can see in the image below). The file name should start with ‘kalilinux‘ and end with the .vbox extension.
+
+<img src-"">
 
 Open the .vbox file in VirtualBox
 Add Kali Linux
@@ -32,10 +38,14 @@ Once selected, proceed by clicking on Open.
 <h3>Step 4</h3>: Now, you will be shown the settings for the virtual machine you are about to add. So, you can customize them or not – that is your choice. It is okay if you go with the default settings.
 
 Start the Kali Linux Virtual Machine with default settings
+
+<img src="">
 Start Kali Linux
 Here, the hard drives as VDI refer to virtually mounting the hard drives by allocating the storage space set.
 
 After you are done with the settings, hit Start and wait for a while.
+
+<img src="">
 
 
 You might get an error at first for USB port 2.0 controller support, you can disable it to resolve it or just follow the on-screen instructions of installing an additional package to fix it. And, you are done!
@@ -48,6 +58,8 @@ The default username in Kali Linux used to be root and the default password was 
 Now, the default account and password both are Kali.
 
 You should be able to log in to the system with it.
+
+<img src="">
 
 Kali Linux is running inside VirtualBox.
 Kali Linux Desktop in VirtualBox
