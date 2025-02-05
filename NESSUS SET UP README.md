@@ -69,7 +69,7 @@ Next, you’ll be presented with a Nessus welcome screen. Click on “Continue�
 
 Select “Register for Nessus Essentials” on the following screen and click on “Continue.”
 
-<img src="">
+<img src="Folder/register-for-nessus-essentials (2).jpg">
 
 On the next screen, provide your name and email address and click on “Register” to continue.
 <img src="">
