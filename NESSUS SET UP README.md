@@ -109,7 +109,7 @@ You’ll need to log in with the credentials you set earlier.
 Once you’re logged in, you can begin to use Nessus.
 
 
-<img src="">
+<img src="Folder/nessus-essentials-interface-kali (2).jpg">
 
 Once you are finished working with Nessus, you can stop the service with the command <b>sudo systemctl stop nessusd</b>
 
