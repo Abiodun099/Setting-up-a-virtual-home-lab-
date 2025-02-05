@@ -65,7 +65,7 @@ When you try to access the URL, you'll see a warning message. Click on “Advanc
 
 Next, you’ll be presented with a Nessus welcome screen. Click on “Continue” to move forward.
 
-<img src="">
+<img src="Folder/nessus-welcome-screen (2).jpg">
 
 Select “Register for Nessus Essentials” on the following screen and click on “Continue.”
 
