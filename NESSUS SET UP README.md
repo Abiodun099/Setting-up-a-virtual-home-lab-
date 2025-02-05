@@ -81,7 +81,7 @@ On the next screen, you’ll be presented with an activation code. Copy and save
 
 On the next screen, you must create a Nessus administrator user account, which will be used to login to Nessus.
 
-<img src="">
+<img src="Folder/create-nessus-account-kali (2).jpg">
 
 
 Nessus will now begin downloading the plugins.
