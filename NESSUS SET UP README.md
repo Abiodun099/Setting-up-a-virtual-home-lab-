@@ -1,5 +1,5 @@
 <h2>How-to-Install-Nessus-on-Kali-Linux</h2>
-
+<img src="Folder/How-to-install-Nessus-on-Kali-Linux-Windows.webp">
 
 
 To find vulnerabilities in systems or networks using the Nessus vulnerability scanner, you first need to understand how to install it.
@@ -74,7 +74,6 @@ Select “Register for Nessus Essentials” on the following screen and click on
 On the next screen, provide your name and email address and click on “Register” to continue.
 
 
-
 On the next screen, you’ll be presented with an activation code. Copy and save this code somewhere for future reference. Click on “Continue.”
 
 
@@ -93,7 +92,6 @@ Nessus will now begin downloading the plugins.
 Once finished, you’ll be taken to the Nessus dashboard.
 
 From here, Nessus will start configuring the plugins, which will take a while to complete. So grab a cup of coffee and relax while it works its magic.
-
 
 
 Once finished, you’re ready to use Nessus.
