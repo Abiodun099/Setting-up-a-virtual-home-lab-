@@ -76,7 +76,7 @@ On the next screen, provide your name and email address and click on “Register
 
 On the next screen, you’ll be presented with an activation code. Copy and save this code somewhere for future reference. Click on “Continue.”
 
-<img src="">
+<img src="Folder/nessus-activation-code (2).jpg">
 
 
 On the next screen, you must create a Nessus administrator user account, which will be used to login to Nessus.
