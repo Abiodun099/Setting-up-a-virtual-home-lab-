@@ -92,7 +92,8 @@ Nessus will now begin downloading the plugins.
 Once finished, you’ll be taken to the Nessus dashboard.
 
 From here, Nessus will start configuring the plugins, which will take a while to complete. So grab a cup of coffee and relax while it works its magic.
-<img src="">
+
+<img src="Folder/nessus-plugin-download-kali-1 (2).jpg">
 
 Once finished, you’re ready to use Nessus.
 
