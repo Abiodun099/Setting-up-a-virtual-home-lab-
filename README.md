@@ -34,7 +34,7 @@ Click on the "New" option in VirtualBox to create a new virtual machine and begi
 
 
 
-<img src="met3.jpg">
+<img src="Folder/met3.jpg">
 
 
 
@@ -48,7 +48,7 @@ Version: Select "Other (64-bit)."
 
 
 
-<img src="met4.jpg">
+<img src="Folder/met4.jpg">
 
 
 
@@ -63,7 +63,7 @@ Choose the amount of RAM to allocate to the virtual machine. It’s recommended 
 
 
 
-<img src="met5.jpg">
+<img src="Folder/met5.jpg">
 
  
 
@@ -74,7 +74,7 @@ Select the option to use an existing virtual hard disk file. This allows you to 
 
 
 
-<img src="met6.png">
+<img src="Folder/met6.png">
 
 
 
@@ -85,7 +85,7 @@ Set up the network settings for your virtual machine carefully to ensure securit
 
 
 
-<img src="met7.jpg">
+<img src="Folder/met7.jpg">
 
 
  
@@ -101,7 +101,7 @@ Now locate the file that we have extracted.
 
 
 
-<img src="met8.jpg">
+<img src="Folder/met8.jpg">
 
 
 
@@ -121,7 +121,7 @@ Now save the file and you will see that the instance is created with the name yo
 
 
 
-<img src="met9.jpg">
+<img src="Folder/met9.jpg">
 
 
  
@@ -132,7 +132,7 @@ You’re all set! Simply click the "Start" button at the top to initiate the mac
 
 
 
-<img src="met10.png">
+<img src="Folder/met10.png">
 
 
 
@@ -148,7 +148,7 @@ Password: msfadmin
 
 
 
-<img src="met11.jpg">
+<img src="Folder/met11.jpg">
 
 
 
