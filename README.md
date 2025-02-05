@@ -12,7 +12,7 @@ Download Metasploitable from trusted sources like Rapid7's website. Choose the a
 
 
 
-<img src="met1.jpg">
+<img src="Folder/met1.jpg">
 
 
  
