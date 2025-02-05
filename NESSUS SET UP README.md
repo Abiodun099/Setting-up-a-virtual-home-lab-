@@ -87,7 +87,7 @@ On the next screen, you must create a Nessus administrator user account, which w
 Nessus will now begin downloading the plugins.
 
 
-<img src="">
+<img src="Folder/nessus-plugin-download-kali (2).jpg">
 
 Once finished, you’ll be taken to the Nessus dashboard.
 
