@@ -59,40 +59,40 @@ After starting the service, <b>go to</b> https://kali:8834/ in your web browser 
 
 When you try to access the URL, you'll see a warning message. Click on “Advanced…” and select “Accept the Risk and Continue.”
 
-<img src="">
+<img src="Folder/nessus-warning-message (2).jpg">
 
 
 
 Next, you’ll be presented with a Nessus welcome screen. Click on “Continue” to move forward.
 
-
+<img src="">
 
 Select “Register for Nessus Essentials” on the following screen and click on “Continue.”
 
-
+<img src="">
 
 On the next screen, provide your name and email address and click on “Register” to continue.
-
+<img src="">
 
 On the next screen, you’ll be presented with an activation code. Copy and save this code somewhere for future reference. Click on “Continue.”
 
-
+<img src="">
 
 
 On the next screen, you must create a Nessus administrator user account, which will be used to login to Nessus.
 
-
+<img src="">
 
 
 Nessus will now begin downloading the plugins.
 
 
-
+<img src="">
 
 Once finished, you’ll be taken to the Nessus dashboard.
 
 From here, Nessus will start configuring the plugins, which will take a while to complete. So grab a cup of coffee and relax while it works its magic.
-
+<img src="">
 
 Once finished, you’re ready to use Nessus.
 
@@ -102,13 +102,13 @@ To start Nessus, use the command sudo systemctl start nessusd.service and then o
 
 You’ll need to log in with the credentials you set earlier.
 
-
+<img src="">
 
 
 Once you’re logged in, you can begin to use Nessus.
 
 
-
+<img src="">
 
 Once you are finished working with Nessus, you can stop the service with the command <b>sudo systemctl stop nessusd</b>
 
