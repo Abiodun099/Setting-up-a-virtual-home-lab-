@@ -47,7 +47,7 @@ if it says <b>Disable</b> press <b>ENTER</b>
 
 then type.... <b>systemctl start nessusd</b> in the command line then press <b>ENTER</b>
 
-
+<img src="Folder/start-nessusd-service (1) (2).jpg">
 
 
 Now enter this again enter  <b>systemctl status nessusd</b> in the command line.
@@ -59,7 +59,7 @@ After starting the service, <b>go to</b> https://kali:8834/ in your web browser 
 
 When you try to access the URL, you'll see a warning message. Click on “Advanced…” and select “Accept the Risk and Continue.”
 
-
+<img src="">
 
 
 
